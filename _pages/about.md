@@ -12,8 +12,7 @@ I'm a Senior Postdoctoral Researcher at the Intelligent Autonomous System Labora
 
 I have a broad spectrum of reserach interests thightly or losely connected to the human-robot collaboration and to the promotion of a win-win paradigm in such cooperation. 
 
-I recieved the Ph. D. in Mechatronics Engineering from the University of Padova, supervised by Prof. Monica Reggiani. Than I moved to IIT as reserach fellow and than I headed back at the University of Padova.
-In the meanwhile, during the PhD, i was a visiting scholar for six months at the INSIGNEO institute for the In-Silico Medicine of the University of Sheffield (UK), under the supervision of Dr. Luca Modenese and Dr, Claudia Mazza.
+I recieved the Ph. D. in Mechatronics Engineering from the University of Padova, supervised by Prof. Monica Reggiani. Than I moved to IIT as reserach fellow and than I headed back at the University of Padova. During the PhD, i was a visiting scholar for six months at the INSIGNEO institute for the In-Silico Medicine of the University of Sheffield (UK), under the supervision of Dr. Luca Modenese and Dr. Claudia Mazza.
 
 <!-- ##Research Interests
 
