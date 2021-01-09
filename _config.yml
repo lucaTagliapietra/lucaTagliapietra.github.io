@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luca Tagliapietra Personal Webpage"
+title                    : "Luca Tagliapietra"
 title_separator          : "-"
 name                     : &name "Luca Tagliapietra, PhD"
 description              : &description "Senior Post-Doc Researcher at the University of Padova"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Luca Tagliapietra, PhD"
-  avatar           : "/images/pic_lt.png"
+  avatar           : "LucaTagliapietraImg.png"
   bio              : "Senior Post-Doc Researcher at the Intelligent Autonomous System Laboratory of the Department of Information Engineering of the University of Padova"
   location         : "Padova, Italy"
   employer         : "University of Padova"
