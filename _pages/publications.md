@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Academic Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -8,12 +8,6 @@ author_profile: true
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
-
-# Academic Publications
-
-## Patents
-
-1. [***pending***] Menegatti, E., **Tagliapietra, L.** , Savino, S., Tosello, E., Navalesi, P., Persona, P., Valeri, I., and Zarantonello,   F., "Metodo per la Trasformazione di una Maschera per Attività Acquatiche in una Maschera per  la Ventilazione Meccanica a Pressione Positiva Continua (C-PAP) e Relativa Maschera per la Ventilazione Meccanica".
 
 ## Journal Papers & Book Chapters
 
@@ -27,6 +21,14 @@ author_profile: true
 7. [***2018***] **Tagliapietra, L.**, Modenese, L., Ceseracciu, E., Mazzà, C., and Reggiani, M.. Validation of a Model-based Inverse Kinematics Approach Based on Wearable Inertial Sensors. *Computer Methods in Biomechanics and Biomedical Engineering*, 21(16):834–844 .doi: [10.1080/10255842.2018.1522532](https://doi.org/10.1080/10255842.2018.1522532).
 8. [***2017***] Pizzolato, S., **Tagliapietra, L.**, Cognolato, M., Reggiani, M., Müller, H., and Atzori, M. Comparison of Six Slectromyography Acquisition Setups on Hand Movement Classification Tasks. *PLoS ONE* .doi: [10.1371/journal.pone.0186132](https://doi.org/10.1371/journal.pone.0186132).
 9. [***2016***] Akhras, M. A., Bortoletto, R., Madehkhaksar, F., and **Tagliapietra, L.** Neural and Musculoskeletal Modeling: Its Role in Neurorehabilitation. *Biosystems and Biorobotics* .doi: [10.1007/978-3-319-24901-8_5](https://doi.org/10.1007/978-3-319-24901-8_5).
+
+
+
+## Patents
+
+1. [***pending***] Menegatti, E., \**Tagliapietra, L.\** , Savino, S., Tosello, E., Navalesi, P., Persona, P., Valeri, I., and Zarantonello, F. Metodo per la Trasformazione di una Maschera per Attività Acquatiche in una Maschera per  la Ventilazione Meccanica a Pressione Positiva Continua (C-PAP) e Relativa Maschera per la Ventilazione Meccanica.**
+
+
 
 ## Conference Articles
 
@@ -57,7 +59,3 @@ author_profile: true
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-
-```
-
-```
